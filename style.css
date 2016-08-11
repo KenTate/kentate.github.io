@@ -12,9 +12,13 @@ h1 {
 }
 
 .name {
+  display: flex;
+  flex-wrap: wrap;
   justify-content: center;
 }
 
 .contact {
+  display: flex;
+  flex-wrap: wrap;
   justify-content: center;
 }
