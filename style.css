@@ -19,5 +19,7 @@ h1 {
 }
 
 .contact {
+  display: flex;
+  flex-wrap: wrap;
   justify-content: center;
 }
