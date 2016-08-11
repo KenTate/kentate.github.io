@@ -9,6 +9,7 @@ h1 {
 
 .profile-pic {
   float: right;
+  border: 5px solid #fff;
 }
 
 .name {
