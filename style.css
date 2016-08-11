@@ -10,3 +10,7 @@ h1 {
 .profile-pic {
   float: right;
 }
+
+.name-contact {
+  justify-content: center;
+}
