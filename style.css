@@ -11,6 +11,10 @@ h1 {
   float: right;
 }
 
-.name-contact {
+.name {
+  justify-content: center;
+}
+
+.contact {
   justify-content: center;
 }
