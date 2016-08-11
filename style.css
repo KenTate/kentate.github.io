@@ -6,3 +6,7 @@ h1 {
   font-size: 56px;
   font-family: Palatino, 'Palatino Linotype', serif;
 }
+
+.profile-pic {
+  float: right;
+}
