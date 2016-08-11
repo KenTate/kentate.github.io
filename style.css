@@ -1,27 +1,7 @@
-p {
-color: black;
-}
-
-h1 {
-  font-size: 56px;
-  font-family: Palatino, 'Palatino Linotype', serif;
-}
 
 .profile-pic {
   float: right;
   border: 5px solid #fff;
-}
-
-.name {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-
-.contact {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
 }
 
 div {
