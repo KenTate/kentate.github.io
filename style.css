@@ -9,12 +9,12 @@ div {
 }
 
 #Header {
-    height: 40px
-    width: 20px
-    background color: red
-    position: fixed;
-    z-index: 1;
-    
+   position: fixed;
+   z-index: 1;
+   height: 40px;
+   width: 98%;
+   background-color: #668284;
+   margin-bottom: 10px;
 }
 #name {
     float:left;
