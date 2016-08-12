@@ -69,3 +69,16 @@ h3
 { 
   text-decoration: underline;
 }
+#company-name
+{
+  height: 2px;
+  text-decoration:underline;
+}
+
+#job-title
+{
+  height: 5px;
+  text-decoration: italic;
+}
+}
+}
