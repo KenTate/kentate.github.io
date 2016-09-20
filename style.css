@@ -50,7 +50,23 @@ div {
     color: #ffffff;
 }
 
+.left { 
+    height: 50px;
+    width: 10px;
+    background color: blue;
+    float: left;
+    
+}
 
+.right {
+    float: left;
+    margin-top: 50px;
+    padding-left: 5px;
+    height: auto;
+    width: 99%;
+    background-color: #E3EDD8;
+    
+}
     
 
 h3
