@@ -3,6 +3,10 @@ body {
   font-family: Helvetica, Arial, sans-serif;
   line-height: 1.0
 }
+.education {
+  list-style-type: none;
+}
+}
 .profile-pic {
   float: right;
   border: 5px solid #fff;
