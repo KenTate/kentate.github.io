@@ -10,6 +10,7 @@ body {
 .profile-pic {
   float: right;
   border: 5px solid #fff;
+  padding: 0 0 0 50px;
 }
 
 div {
